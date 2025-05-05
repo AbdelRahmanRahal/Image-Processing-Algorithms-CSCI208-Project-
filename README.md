@@ -1,2 +1,2 @@
-# CSCI208 Project
+# Image Processing Algorithms (CSCI208 Project)
  
